@@ -14,21 +14,38 @@ Apasionado por la creación de soluciones tecnológicas modernas con estética m
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++_(ESP32)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
 
 ### 📌 Proyectos Destacados
 
-* **ABIS-UPC:** Sistema de votación biométrico universitario. Interfaz web construida con Javalin e integración de sensores mediante adaptadores USB-to-TTL.
-* **SIERCP-IoT v1.0:** Maniquí inteligente para entrenamiento de RCP con integración IoT y monitoreo en tiempo real.
-* **Stockflowx:** Sistema SaaS minimalista para la gestión eficiente de inventarios.
-* **A&R Abogados e Ingenieros S.A.S.:** Desarrollo de portal web corporativo con identidad visual premium.
+* 📦 **StockFlow | Sistema de Gestión con IA**
+    * Aplicación de escritorio integral para gestión de inventarios, facturación y análisis de negocio.
+    * **Stack:** Java 11, JavaFX, Maven, DeepSeek API (IA).
+    * **Destacado:** Arquitectura MVC, chatbot de IA para predicción de demanda, generación de reportes en PDF y captura de productos vía webcam.
+
+* ✨ **[HC Efectos](https://hc-efectos.vercel.app) | Landing Page Premium**
+    * Plataforma web moderna y de alto rendimiento para empresa de efectos especiales.
+    * **Stack:** Next.js 14, TypeScript, Tailwind CSS, Framer Motion.
+    * **Destacado:** Diseño disruptivo, animaciones fluidas, carga diferida (lazy loading), SEO optimizado y modal de cotización integrado.
+
+* 🫀 **SIERCP-IoT v1.0 | Hardware Médico e IoT**
+    * Maniquí inteligente para entrenamiento de RCP con monitoreo en tiempo real.
+    * **Stack:** Python (FastAPI), Firebase, Next.js.
+    * **Destacado:** Arquitectura moderna con backend en FastAPI y sincronización de datos en tiempo real mediante Firebase para la interfaz web.
+
+* 🔐 **ABIS-UPC | Sistema de Votación Biométrico**
+    * Sistema de seguridad universitario con integración de hardware.
+    * **Stack:** Javalin, HTML/CSS/JS, Sensores Biométricos.
+    * **Destacado:** Interfaz web ligera y comunicación con sensores mediante adaptadores USB-to-TTL, evitando dependencias pesadas.
 
 ---
 
