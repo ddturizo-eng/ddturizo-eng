@@ -32,7 +32,7 @@ Apasionado por la creación de soluciones tecnológicas modernas con estética m
     * **Stack:** Java 11, JavaFX, Maven, DeepSeek API (IA).
     * **Destacado:** Arquitectura MVC, chatbot de IA para predicción de demanda, generación de reportes en PDF y captura de productos vía webcam.
 
-* ✨ **[HC Efectos](https://hc-efectos.vercel.app) | Landing Page Premium**
+* ✨ **[HC Efectos](https://hcefectos.com/) | Landing Page Premium**
     * Plataforma web moderna y de alto rendimiento para empresa de efectos especiales.
     * **Stack:** Next.js 14, TypeScript, Tailwind CSS, Framer Motion.
     * **Destacado:** Diseño disruptivo, animaciones fluidas, carga diferida (lazy loading), SEO optimizado y modal de cotización integrado.
