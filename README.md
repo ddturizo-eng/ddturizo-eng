@@ -57,15 +57,18 @@ Actualmente trabajo en proyectos académicos y profesionales utilizando **TypeSc
 
 ## Proyectos destacados
 
-### Averyn — Sistema de Gestión de Procesos Electorales
+### Averyn — Plataforma Institucional de Identidad, Biometría e IA
 
-> Proyecto principal actual · Ingeniería de Sistemas · 2026
+> Proyecto principal · Ingeniería de Sistemas · 2026
 
-Sistema orientado a la **gestión integral de procesos electorales**, con arquitectura modular y enfoque en identificación, validación de usuarios, seguridad y administración de procesos electorales.
+Plataforma institucional orientada a la **gestión segura de procesos organizacionales mediante identidad digital, biometría e inteligencia artificial**.
 
-El proyecto evolucionó a partir de la experiencia adquirida en el desarrollo de sistemas biométricos y actualmente plantea una arquitectura web preparada para integrar diferentes tecnologías de identificación y servicios especializados.
+Averyn busca proporcionar una arquitectura modular y adaptable que permita integrar mecanismos de **identificación, autenticación, validación biométrica y automatización inteligente** dentro de diferentes procesos institucionales.
 
-**Tecnologías:** TypeScript · NestJS · React · Python · PostgreSQL · Supabase · Docker
+Su diseño contempla la separación de componentes de identidad, seguridad, biometría y lógica de negocio, permitiendo adaptar la plataforma a diferentes organizaciones y casos de uso sin depender de un único proceso institucional.
+
+**Tecnologías:** TypeScript · NestJS · React · Python · FastAPI · PostgreSQL · Supabase · Docker
+
 
 ---
 
