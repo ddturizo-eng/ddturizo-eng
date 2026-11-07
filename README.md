@@ -1,213 +1,92 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:378ADD&height=180&section=header&text=Daniel%20Turizo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Systems%20Engineering%20Student&descSize=16&descAlignY=58&animation=fadeIn" />
+
 <div align="center">
 
-# Daniel David Turizo Chacón
+<a href="https://danturizo-portafolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=378ADD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Architecture+%26+APIs;Biometrics+%C2%B7+Identity+%C2%B7+Applied+AI;Building+real-world+solutions" alt="Typing SVG" />
+</a>
 
-**Full-Stack Developer · Ingeniería de Sistemas — 6.º Semestre · UPC · Valledupar, Colombia**
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=ddturizo-eng&label=Vistas%20al%20perfil&color=378ADD&style=flat" alt="Vistas al perfil" />
+<a href="https://danturizo-portafolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ddturizo@unicesar.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=ddturizo-eng&label=Profile%20views&color=378ADD&style=for-the-badge" />
 
 </div>
 
-Estudiante de Ingeniería de Sistemas enfocado en el desarrollo **Full Stack, arquitectura de software, bases de datos y sistemas de información**. Me interesa construir soluciones modulares, mantenibles y orientadas a resolver problemas reales, combinando desarrollo web, backend, integración de servicios y tecnologías emergentes.
-
-Actualmente trabajo en proyectos académicos y profesionales utilizando **TypeScript, React, Next.js, Node.js, NestJS, Python, FastAPI, PostgreSQL y Oracle**, además de herramientas de infraestructura y desarrollo como Docker, Git y GitHub.
-
----
-
-## Stack principal
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square\&logo=java\&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square\&logo=oracle\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
----
-
-## Áreas de interés
-
-* Desarrollo Full Stack
-* Arquitectura de software
-* Sistemas de información
-* Diseño y desarrollo de APIs
-* Bases de datos relacionales
-* Sistemas biométricos y de identificación
-* Integración de hardware y software
-* Inteligencia artificial aplicada al software
-* Sistemas modulares y escalables
-
----
-
-## Proyectos destacados
-
-### Averyn — Plataforma Institucional de Identidad, Biometría e IA
-
-> Proyecto principal · Ingeniería de Sistemas · 2026
-
-Plataforma institucional orientada a la **gestión segura de procesos organizacionales mediante identidad digital, biometría e inteligencia artificial**.
-
-Averyn busca proporcionar una arquitectura modular y adaptable que permita integrar mecanismos de **identificación, autenticación, validación biométrica y automatización inteligente** dentro de diferentes procesos institucionales.
-
-Su diseño contempla la separación de componentes de identidad, seguridad, biometría y lógica de negocio, permitiendo adaptar la plataforma a diferentes organizaciones y casos de uso sin depender de un único proceso institucional.
-
-**Tecnologías:** TypeScript · NestJS · React · Python · FastAPI · PostgreSQL · Supabase · Docker
-
-
----
-
-### ABIS-UPC — Sistema Electoral Biométrico
-
-> Proyecto académico · Liderazgo técnico · Universidad Popular del Cesar · 2026
-
-Sistema experimental de votación electrónica orientado a la identificación biométrica y validación de usuarios.
-
-El proyecto integró tecnologías de **biometría dactilar, OCR, arquitectura de microservicios, bases de datos Oracle, cifrado y automatización de reglas de negocio**.
-
-Entre los componentes desarrollados se exploraron la integración con dispositivos DigitalPersona, procesamiento OCR para documentos de identidad, separación de información de identidad y sufragio, procedimientos almacenados y comunicación entre servicios desarrollados en diferentes tecnologías.
-
-**Tecnologías:** Java 21 · Javalin · Python · FastAPI · Oracle XE · C# .NET · Node.js · AES-256 · PL/SQL
-
-[Ver repositorio →](https://github.com/ddturizo-eng/abis-upc)
-
----
-
-### SICAP — Sistema de Entrenamiento en RCP
-
-Plataforma web orientada al **entrenamiento, seguimiento y gestión de procesos de Reanimación Cardiopulmonar (RCP)**.
-
-El proyecto evolucionó desde una propuesta inicial basada en hardware IoT hacia un ecosistema de software que integra capacitación, gestión de usuarios, cursos, sesiones, métricas y certificación.
-
-La plataforma contempla integración con el ecosistema del maniquí SICAP mediante comunicación BLE y permite gestionar información relacionada con las sesiones de entrenamiento.
-
-**Tecnologías:** Next.js · TypeScript · React · Tailwind CSS · Zustand · Firebase
-
-[Ver repositorio →](https://github.com/ddturizo-eng/SIERCP-WEB)
-
-[Ver plataforma →](https://siercp-web.vercel.app/)
-
----
-
-### StockFlow — Sistema de Gestión de Inventarios
-
-Aplicación de escritorio desarrollada para la gestión y control de inventarios, ventas, facturación, proveedores, clientes, usuarios y reportes.
-
-El sistema incorpora análisis de información y funcionalidades experimentales basadas en inteligencia artificial para apoyar la interpretación de datos y predicción de demanda.
-
-**Tecnologías:** Java · JavaFX · Maven · Scene Builder · NetBeans
-
----
-
-### HC Efectos — Plataforma Web
-
-Sitio web institucional desarrollado para una empresa de efectos especiales, con enfoque en rendimiento, experiencia de usuario y presentación de servicios.
-
-El proyecto incorpora una interfaz moderna, animaciones, optimización de carga y estructura orientada a posicionamiento web.
-
-**Tecnologías:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion
-
-[Visitar hcefectos.com →](https://hcefectos.com/)
-
----
-
-## Experiencia
-
-### Software Developer — Freelance
-
-**2022 — Presente**
-
-* Desarrollo de aplicaciones web y soluciones de software.
-* Diseño e implementación de interfaces con React, Next.js y TypeScript.
-* Desarrollo de funcionalidades backend e integración con bases de datos.
-* Análisis de requerimientos y resolución de problemas.
-* Uso de Git y GitHub para control de versiones y colaboración.
-* Desarrollo de proyectos para diferentes necesidades académicas y profesionales.
-
----
-
-## Reconocimientos
-
-### Mejor Proyecto de Aula — ExpoSoftware UPC
-
-Reconocimiento obtenido durante **dos semestres consecutivos** por proyectos académicos destacados presentados en ExpoSoftware de la Universidad Popular del Cesar.
-
-**2025 — 2026**
-
----
-
-## Formación
-
-**Ingeniería de Sistemas**
-Universidad Popular del Cesar
-2023 — Presente · **6.º semestre**
-
-**Bachiller Técnico**
-I.E. Técnica Acuícola Nuestra Señora de Monteclaro
-2022
-
-### Certificaciones
-
-* Database Foundations — Oracle Academy · Abril 2026
-* Database Programming with SQL — Oracle Academy · Mayo 2026
-
----
-
-## Habilidades personales
-
-* Trabajo en equipo
-* Comunicación
-* Resolución de problemas
-* Pensamiento crítico
-* Aprendizaje autónomo
-* Adaptabilidad
-* Organización
-
----
-
-## Idiomas
-
-**Español** — Nativo
-**Inglés** — B1
-
----
-
-## Estadísticas
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23378ADD&height=26" align="top" /> About me
+
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23378ADD&height=16" /> &nbsp;Systems Engineering student, 6th semester · Universidad Popular del Cesar<br/>
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%23378ADD&height=16" /> &nbsp;Valledupar, Colombia<br/>
+<img src="https://api.iconify.design/lucide/code-xml.svg?color=%23378ADD&height=16" /> &nbsp;Full-stack development, software architecture, APIs and databases<br/>
+<img src="https://api.iconify.design/lucide/trophy.svg?color=%23378ADD&height=16" /> &nbsp;Best Class Project at ExpoSoftware UPC, two consecutive semesters<br/>
+<img src="https://api.iconify.design/lucide/award.svg?color=%23378ADD&height=16" /> &nbsp;Oracle Academy: Database Foundations · Database Programming with SQL<br/>
+<img src="https://api.iconify.design/lucide/briefcase.svg?color=%23378ADD&height=16" /> &nbsp;Freelance software developer since 2022
+
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%23378ADD&height=26" align="top" /> Tech stack
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ddturizo-eng&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddturizo-eng&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,react,nextjs,tailwind&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres,oracle,supabase,firebase,docker&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=8" />
 </p>
 
----
+## <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23378ADD&height=26" align="top" /> Featured projects
 
-## Contacto
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/scan-face.svg?color=%23378ADD&height=22" align="top" /> Averyn</h3>
+      <sub><b>MAIN PROJECT · 2026</b></sub>
+      <p>Institutional platform for digital identity, biometric validation and AI-driven automation. Modular architecture that separates identity, security, biometrics and business logic, so it adapts to any organization.</p>
+      <img src="https://skillicons.dev/icons?i=nestjs,react,fastapi,postgres,supabase,docker&theme=dark" height="32" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/fingerprint.svg?color=%23378ADD&height=22" align="top" /> ABIS-UPC</h3>
+      <sub><b>TECH LEAD · 2026</b></sub>
+      <p>Biometric e-voting system. Fingerprint identification with DigitalPersona, ID-card OCR, AES-256 encryption and microservices in Java, Python and C# over Oracle PL/SQL.</p>
+      <img src="https://skillicons.dev/icons?i=java,py,fastapi,cs,oracle,nodejs&theme=dark" height="32" /><br/><br/>
+      <a href="https://github.com/ddturizo-eng/abis-upc"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/heart-pulse.svg?color=%23378ADD&height=22" align="top" /> SICAP</h3>
+      <sub><b>WEB PLATFORM</b></sub>
+      <p>CPR training ecosystem: courses, sessions, performance metrics and certification, connected to the SICAP manikin over Bluetooth Low Energy.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,firebase&theme=dark" height="32" /><br/><br/>
+      <a href="https://siercp-web.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+      <a href="https://github.com/ddturizo-eng/SIERCP-WEB"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/lucide/package.svg?color=%23378ADD&height=22" align="top" /> StockFlow</h3>
+      <sub><b>DESKTOP APP</b></sub>
+      <p>Inventory management system covering sales, invoicing, suppliers, customers and reports, with experimental AI-based demand forecasting.</p>
+      <img src="https://skillicons.dev/icons?i=java,maven&theme=dark" height="32" />
+    </td>
+  </tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+<p align="center">
+  <a href="https://danturizo-portafolio.vercel.app/"><img src="https://img.shields.io/badge/More_in_my_portfolio-378ADD?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ddturizo@unicesar.edu.co)
+## <img src="https://api.iconify.design/lucide/chart-no-axes-column.svg?color=%23378ADD&height=26" align="top" /> GitHub stats
 
-[![GitHub](https://img.shields.io/badge/GitHub-ddturizo--eng-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ddturizo-eng)
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddturizo-eng&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddturizo-eng&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ddturizo-eng&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddturizo-eng/ddturizo-eng/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/ddturizo-eng/ddturizo-eng/output/github-snake.svg" />
+  </picture>
+</p>
 
-<div align="center">
-
-**Construyendo software, aprendiendo continuamente y convirtiendo ideas en soluciones.**
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,50:1F6FEB,100:0D1117&height=100&section=footer" />
